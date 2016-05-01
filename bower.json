@@ -1,0 +1,31 @@
+{
+  "name": "vazir-font",
+  "homepage": "https://github.com/mohrd/vazir-font",
+  "authors": [
+    "Saber Rastikerdar <saber.rastikerdar@gmail.com>",
+    "Mohammad-Reza <mr.mohrd@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "Vazir-Bold.eot",
+    "Vazir-Bold.ttf",
+    "Vazir-Bold.woff",
+    "Vazir.eot",
+    "Vazir.ttf",
+    "Vazir.woff"
+  ],
+  "keywords": [
+    "font",
+    "persian",
+    "vazir"
+  ],
+  "license": "Public Domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "source"
+  ]
+}
