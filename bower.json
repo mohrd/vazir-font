@@ -12,7 +12,13 @@
     "Vazir-Bold.woff",
     "Vazir.eot",
     "Vazir.ttf",
-    "Vazir.woff"
+    "Vazir.woff",
+    "persian-digits-overwrite/Vazir-Bold-persian-digits-overwrite.eot",
+    "persian-digits-overwrite/Vazir-Bold-persian-digits-overwrite.ttf",
+    "persian-digits-overwrite/Vazir-Bold-persian-digits-overwrite.woff",
+    "persian-digits-overwrite/Vazir-persian-digits-overwrite.eot",
+    "persian-digits-overwrite/Vazir-persian-digits-overwrite.ttf",
+    "persian-digits-overwrite/Vazir-persian-digits-overwrite.woff",
   ],
   "keywords": [
     "font",
